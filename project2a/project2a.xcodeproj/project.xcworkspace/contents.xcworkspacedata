@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../project2/project2/Animal.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../project2/project2/Animal.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../project2/project2/Penguin.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../project2/project2/Penguin.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../project2/project2/Tiger.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../project2/project2/Tiger.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../project2/project2/Turtle.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../project2/project2/Turtle.hpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../project2/project2/Zoo.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:../../project2/project2/Zoo.hpp">
+   </FileRef>
+   <FileRef
+      location = "self:project2a.xcodeproj">
+   </FileRef>
+</Workspace>
